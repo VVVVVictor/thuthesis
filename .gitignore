@@ -20,6 +20,7 @@
 *.lof
 *.lot
 *.loe
+*.synctex.gz
 latex/dtx-style.sty
 latex/thuthesis.cfg
 latex/thuthesis.cls
